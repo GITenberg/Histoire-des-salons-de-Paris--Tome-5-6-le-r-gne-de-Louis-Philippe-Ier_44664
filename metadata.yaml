@@ -1,0 +1,44 @@
+_repo: Histoire-des-salons-de-Paris--Tome-5-6-le-r-gne-de-Louis-Philippe-Ier_44664
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44664-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Abrantès, Laure Junot, duchesse d'
+    aliases:
+    - Junot, Laure,‏ duchesse d'Abrantès
+    - Abrantes, Laure Junot, duchesse d'
+    - D'Abrantès, Laure Junot,‏ duchesse
+    - Abrantès, Laure Saint-Martin Permon Junot,‏  duchesse d'
+    birthdate: 1784
+    deathdate: 1838
+    gutenberg_agent_id: '39968'
+    url: http://www.gutenberg.org/2009/agents/39968
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Laure_Junot,_Duchess_of_Abrant%C3%A8s
+    - http://fr.wikipedia.org/wiki/Laure_Junot_d%27Abrant%C3%A8s
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Chroniques
+gutenberg_issued: '2014-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44664'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Intellectual life'
+- !lcsh 'Salons'
+- !lcsh 'Paris (France) -- Social life and customs'
+- !lcc 'DC'
+tableOfContents: 'Salon de l''Impératrice Joséphine: Madame Bonaparte. L''Impératrice
+  Joséphine. L''Impératrice à Navarre. La Malmaison, 1813-1814 -- Salon de Cambacérès,
+  sous le Consulat et l''Empire -- Salon de madame la duchesse de Bassano.'
+title: "Histoire des salons de Paris (Tome 5/6)\r\nTableaux et portraits du grand\
+  \ monde sous Louis XVI, Le Directoire, le Consulat et l'Empire, la Restauration\
+  \ et le règne de Louis-Philippe Ier"
+url: http://www.gutenberg.org/ebooks/44664
